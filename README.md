@@ -245,7 +245,7 @@ jupyter notebook notebook.ipynb
 
 ## 👤 Penulis
 
-**<Nama Anda>** — [GitHub](https://github.com/<username>) · [LinkedIn](https://linkedin.com/in/<username>)
+**<Ainul Yakin>** — [GitHub](https://github.com/<akinnn-ay>) · [LinkedIn](https://linkedin.com/in/<username>)
 
 ## 📄 Lisensi
 
